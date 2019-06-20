@@ -1,9 +1,10 @@
 {
-    "python.pythonPath": "/usr/local/bin/python3",
+    "python.pythonPath": "venv/bin/python",
     "python.testing.pyTestArgs": [
         "python_work"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,
-    "python.testing.pyTestEnabled": true
+    "python.testing.pyTestEnabled": false,
+    "python.testing.promptToConfigure": false
 }
